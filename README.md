@@ -1,4 +1,4 @@
-# Sales-Insights-Data-Analysis
+# HR Data-Analysis
 The Sales Insights Data Analysis project simulates real-world business scenarios to provide a comprehensive view of how large companies leverage data for decision-making. The project focuses on
 Data Cleaning & Preparation: Organized raw sales data into a structured format using tools like Excel or Power BI.
 
